@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(Weekend.woff);
+        src: url(iannnnn-DOG.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(gigi%20.woff);
+        src: url(MNNTuaklom.woff);
       }
       #font1{
         font-family: myFont;
@@ -20,7 +20,7 @@
   </head>
   <body>
     <div id="font1">
-      <h1>นางสาวชิษณุชา กระจ่างกิจใจชุ่ม เลขที่ 1 ห้อง 5/13</h1>
+      <h1>นางสาวชิษณุชา กระจ่างกิจใจชุ่ม เลขที่ 19 ห้อง 5/13</h1>
     </div>
     <div id="font2">
       <h1>นางสาวชิษณุชา กระจ่างกิจใจชุ่ม เลขที่ 19 ห้อง 5/13</h1>
