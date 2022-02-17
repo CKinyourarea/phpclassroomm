@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(smileRegular.woff);
+        src: url(Uranus.woff);
       }
       @font-face{
         font-family: myFont2;
