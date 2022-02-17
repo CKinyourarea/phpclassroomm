@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(iannnnn-DOG.woff);
+        src: url(smile Regular.woff);
       }
       @font-face{
         font-family: myFont2;
