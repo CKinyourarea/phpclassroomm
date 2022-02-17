@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(smile Regular.woff);
+        src: url(smileRegular.woff);
       }
       @font-face{
         font-family: myFont2;
